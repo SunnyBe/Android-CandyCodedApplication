@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,28 +234,36 @@
       <option name="project" value="LOCAL" />
       <updated>1601110169542</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added intent to dial phone number to InfoActivity">
+      <created>1601110399860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601110399860</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added an intent to open InfoActivity from MainActivity onOptionsMenuItemSelected" />
     <MESSAGE value="Added intent to view map in InfoActivity class and update the view to be clickable" />
     <MESSAGE value="Fix uri not passed to intent" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix uri not passed to intent" />
+    <MESSAGE value="Added intent to dial phone number to InfoActivity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added intent to dial phone number to InfoActivity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601108731778">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.825@0.23.1440.825" timestamp="1601108731778" />
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1601109104762">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1601110535923">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1601109104762" />
-    <state x="239" y="51" key="CommitChangelistDialog2" timestamp="1601110169361">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1601110535923" />
+    <state x="239" y="51" key="CommitChangelistDialog2" timestamp="1601110399674">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="239" y="51" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1601110169361" />
+    <state x="239" y="51" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1601110399674" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1601110037776">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -272,9 +280,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601110037775" />
-    <state width="380" height="79" key="javadoc.popup.new" timestamp="1601110378835">
+    <state width="380" height="79" key="javadoc.popup.new" timestamp="1601110659354">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="380" height="79" key="javadoc.popup.new/0.0.1440.900@0.0.1440.900" timestamp="1601110378835" />
+    <state width="380" height="79" key="javadoc.popup.new/0.0.1440.900@0.0.1440.900" timestamp="1601110659354" />
   </component>
 </project>
